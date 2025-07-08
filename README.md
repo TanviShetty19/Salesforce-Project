@@ -142,7 +142,7 @@ WhatsNext-VisionMotors-Salesforce/
 ```
 
 ## Benefits & Impact
-|----------------------------|-------------------------------------------------------------------------------------------|
+
 | Area                       | Impact                                                                                    |
 |----------------------------|-------------------------------------------------------------------------------------------|
 | **Customer Satisfaction**  | Accurate order placement and clear communication reduce confusion and disappointment.     |
@@ -150,5 +150,4 @@ WhatsNext-VisionMotors-Salesforce/
 | **Data Accuracy**          | Prevents invalid orders and ensures real-time stock tracking.                             |
 | **Scalability**            | Designed using best practices, modular logic, and reusable code structures.               |
 | **Team Productivity**      | Frees up staff from repetitive tasks, allowing focus on strategy and customer engagement. |
-|----------------------------|-------------------------------------------------------------------------------------------|
 
